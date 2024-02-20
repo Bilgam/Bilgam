@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bilgam
-- I’m interested in Home networking, raspberry pi
+- I’m interested in Home networking, raspberry pi networking 
 - I’m currently learning CCNA, MCSA, MCSE
 
 <!---
